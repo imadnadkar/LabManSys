@@ -23,8 +23,8 @@
     </dependency>
   </dependencies>
   <scm>
-  	<connection>scm:git:git@github.com:imadnadkar/git-demo.git</connection>
-  	<url>scm:git:git@github.com:imadnadkar/git-demo.git</url>
-  	<developerConnection>scm:git:git@github.com:imadnadkar/git-demo.git</developerConnection>
+  	<connection>scm:git:git@github.com:imadnadkar/LabManSys.git</connection>
+  	<url>scm:git:git@github.com:imadnadkar/LabManSys.git</url>
+  	<developerConnection>scm:git:git@github.com:imadnadkar/LabManSys.git</developerConnection>
   </scm>
 </project>
